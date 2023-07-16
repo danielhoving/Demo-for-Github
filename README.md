@@ -1,6 +1,3 @@
 # Demo
 
 Some description!
-
-
-Ello
